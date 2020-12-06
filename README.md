@@ -1,6 +1,6 @@
 # Táxi autônomo
 
-# Fábio Vaz, Felipe Rojas e Henrique Sanchez
+Fábio Vaz, Felipe Rojas e Henrique Sanchez
 
 *Contextualização*
 
